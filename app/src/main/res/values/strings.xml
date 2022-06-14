@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FabricaDeSoftware</string>
+
+    <string-array name="eletrodomesticos">
+        <item>Lampada led 15 w</item>
+        <item>Maquina de lavar</item>
+        <item>Máquina de lavar louça</item>
+        <item>Microondas</item>
+        <item>Liquidificador</item>
+        <item>Chuveiro eletrico</item>
+        <item>Televisor</item>
+        <item>Batedeira</item>
+        <item>Aparelho de som</item>
+        <item>Ar Condicionado</item>
+    </string-array>
+</resources>
